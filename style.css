@@ -101,19 +101,3 @@ iframe{
     margin-top: 10px;
 }
 
-#skills{
-    background-color: var(--fundo-card);
-    border-radius: 8px;
-    padding: 10px;
-    color: var(--destaque);
-}
-
-.barra-detalhe{
-    display: flex;
-    justify-content: space-between;
-}
-
-.borda{
-    padding: 10px;
-    color: var(--destaque);
-}
